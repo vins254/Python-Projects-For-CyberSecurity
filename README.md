@@ -62,7 +62,7 @@ python subdomain_enum.py example.com
 
 
 
-#### This scripts you can run in Windwos & Linux But
+#### This scripts you can run in Windwos & Linux
 ## Projects Included
 
 ### 1. Password Generator
@@ -94,5 +94,5 @@ A script for discovering subdomains associated with a target domain, useful for 
 To get started with any of these projects, clone the repository and navigate to the directory of the script you wish to run. Make sure you have Python installed on your system.
 
 ```bash
-git clone https://github.com/yourusername/Python-Project-For-CyberSecurity.git
+git clone https://github.com/vins254/Python-Project-For-CyberSecurity.git
 cd Python-Project-For-CyberSecurity
